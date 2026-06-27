@@ -9,4 +9,4 @@ I build deployed, end-to-end data tools that solve one specific business problem
 - 📉 **[ChurnGuard](https://github.com/haseeb774/Churn-guard-with-recomendations-)** — predicts customer churn, explains why, and recommends a retention action.
 - 🛒 **[Olist E-Commerce Analytics](https://github.com/haseeb774/Olist-Data-analysis-SQL-Python-Power-BI-Case-study)** — SQL + Python + Power BI breakdown of 45K orders and R$9.19M in revenue.
 
-📫 Reach me: [INSERT REAL EMAIL] · [LinkedIn](https://www.linkedin.com/in/haseeb-u-rehman-4822bb369/)
+📫 Reach me: [haseeb16001@gmail.com] · [LinkedIn](https://www.linkedin.com/in/haseeb-u-rehman-4822bb369/)
