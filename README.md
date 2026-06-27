@@ -1,7 +1,7 @@
 ## Haseeb U Rehman
 
 I am a Data Scientist and I build tools that catch expensive problems early. You get a dashboard, not a notebook someone has to walk you through.
-
+ (📍 Karachi, Pakistan (GMT+5) · Freelance, open to US/EU overlap hours)
 ---
 
 ### Selected work
